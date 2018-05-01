@@ -2,7 +2,7 @@ This is the repository of the Alpha Blog app of the Rails JavaScript Development
 
 - This was built using Ruby on Rails
 
-Text- directions for the course
+**Text- directions for the course**
 
 Getting Started with Alpha Blog - Text Directions and Code
 Section 1, Lecture 5
